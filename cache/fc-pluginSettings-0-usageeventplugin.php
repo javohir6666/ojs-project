@@ -1,4 +1,4 @@
 <?php return array (
   'enabled' => true,
-  'uniqueSiteId' => '',
+  'uniqueSiteId' => '6253e9025efb5',
 );
